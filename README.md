@@ -1,13 +1,13 @@
 # TV_Script_Generator
 
-The TV_Script_Generator wll generate your own Seinfeld TV scripts using RNNs. It wll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
+The TV_Script_Generator will generate your own Seinfeld TV scripts using RNNs. It will be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
 In this project, we will use a LSTM cell.
 
 Documentation
 -------------
 
-This is my first RNN from scratch for detecting a dog's breed.
+This is my first RNN from scratch for generating Seinfeld TV scripts.
 
 Install
 --------
